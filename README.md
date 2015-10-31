@@ -23,13 +23,8 @@ OneGlove is a gesture based remote smartphone control product. This SDK provides
     <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
     
     
-<<<<<<< HEAD
-6) In the App Manifest add the following code to your   <Application>   cell (e.g   <Application> CODE GOES HERE </Application>    ):
-=======
-6) In the App Manifest add the following code to your <Application> cell (e.g <Application> CODE
-GOES HERE </Application>):
->>>>>>> 2c23136af8ea5f461fee967d077c4beb17904301
-
+6) In the App Manifest add the following code to your   <Application>   cell (e.g   <Application> CODE
+GOES HERE </Application>    ):
     
     <service android:name="gestech.com.gtlib.Bluetooth.BluetoothLeServices" />
     <receiver android:name="gestech.com.gtlib.GestechInterfaces.GtBroadcastReceiver">
