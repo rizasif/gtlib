@@ -59,7 +59,7 @@ OneGlove is a gesture based remote smartphone control product. This SDK provides
     oneGlove.beginScan();
     
     
-11. View your desired gesture in onGestureAnalyzed() callback method, produced as a result of GtHelper implementation i.e String gesture contains the name of detected gesture.
+11) View your desired gesture in onGestureAnalyzed() callback method, produced as a result of GtHelper implementation i.e String gesture contains the name of detected gesture.
 
 
 # Note:
