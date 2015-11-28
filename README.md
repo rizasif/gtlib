@@ -5,7 +5,7 @@ OneGlove is a gesture based remote smartphone control product. This SDK provides
 
 1) Create a new Android Studio Project with minimum SDK version 4.4 Kit Kat.
 
-2) Clone the One Glove SDK from “ https://github.com/rizasif/OneGlove ” (or download as Zip file and unzip it).
+2) Clone the One Glove SDK from “ https://github.com/rizasif/gtlib ” (or download as Zip file and unzip it).
 
 3) In your Android Studio Project go to “File -> Import Module”, Select "Import .JAR or .AAR Package" option and under File Name provide link to "gtlib-release.aar" file in your cloned/downloaded folder.
 
